@@ -1,0 +1,10 @@
+requests
+django
+psycopg2-binary
+gunicorn
+djangorestframework
+matplotlib
+scipy
+numpy
+scikit-learn
+pandas
